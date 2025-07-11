@@ -5,7 +5,7 @@ INTENTS = {
     },
     "name": {
         "examples": ["what's your name", "who are you", "your name"],
-        "response": "I'm your friendly CodTech AI Chatbot."
+        "response": "I'm your friendly  Chatbot."
     },
     "bye": {
         "examples": ["bye", "goodbye", "see you"],

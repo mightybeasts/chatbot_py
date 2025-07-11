@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 
 st.set_page_config(page_title="Web Chatbot", layout="centered")
 
-st.markdown("<h2 style='text-align: center; color: white;'>🤖 AI Chatbot</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; color: white;'>🤖Chatbot</h2>", unsafe_allow_html=True)
 
 # Initialize chat history
 if "chat_history" not in st.session_state:
